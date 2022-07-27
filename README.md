@@ -1,4 +1,4 @@
-### 🙃 Hello ITbjs 
+### 🙃 Hello
 #### 🍰 Who I Am
 - 🏫 Seoul Science Highschool 29th
 - 🏫 Hanyang University 21
