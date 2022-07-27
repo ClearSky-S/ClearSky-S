@@ -1,16 +1,41 @@
-### Hi there 👋
+### 🙃 Hello ITbjs 
+#### 🍰 Who I Am
+- 🏫 Seoul Science Highschool 29th
+- 🏫 Hanyang University 21
 
-<!--
-**ClearSky-S/ClearSky-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 🏗️ What I Do
+- 🔥 Web Backend Development
+- 🔥 Game Development using Unity
+- 🦄  2D Art & Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ❤️‍🔥  Language
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ❤️‍🔥 Framework
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 🔭 Projects
+
+```
+✅ = Finished
+🏗️ = Working on
+```
+  
+| Name      | Description   |  Developer(s)   |
+|:----------|:--------------|:----------------|
+| ✅ **Blue Archive TPS**(2022)|Fan game of Blue Archive in third person shooter [[Download]](https://clearsky-s.github.io/BlueArchiveTPSHompage/)/Unity| Me |
+| 🏗️ **Pomodoro Timer**(2022-)|Study timer site[[Github]](https://github.com/Devrent-Pomodoro/Pomodoro-Django) /Django(python)| [Devrent](https://devrent.notion.site/devrent/devRent-f017ed17fb92400497ed074c80a044fa) |
+
+
+### 📮 Contacts
+- 📫 Email: junhyuckjang3@gmail.com
+
+
+
