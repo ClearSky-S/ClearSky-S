@@ -1,7 +1,7 @@
 ### 🙃 Hello
 #### 🍰 Who I Am
 - 🏫 Seoul Science Highschool 29th
-- 🏫 Hanyang University 21
+- 🏫 Hanyang University 21 (Computer Science)
 
 
 #### 🏗️ What I Do
