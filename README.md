@@ -35,6 +35,9 @@
 | ✅ **Hunt With Kindered**(2020)|Fan game of LOL [[Google Play Store]](https://play.google.com/store/apps/details?id=com.ClearSky.HuntwithClearSky)/Unity| Me |
 | ✅ **2D Game Character Animation**(2019-)|2D Character Game Character Animation [[Unity Asset Store]](https://assetstore.unity.com/publishers/45049/)/Unity| Me |
 
+### 🔭 Youtube
+- [Game Development Channel](https://www.youtube.com/channel/UCooqunOsKx8LD5xyl7M_2-A)
+- [Music PlayList Channel](https://www.youtube.com/channel/UCgKr-dm9wEfSPisEQzUXYNw)
 ### 📮 Contacts
 - 📫 Email: junhyuckjang3@gmail.com
 
