@@ -40,8 +40,10 @@
 - 🦄 [Game Development Channel](https://www.youtube.com/channel/UCooqunOsKx8LD5xyl7M_2-A)
 - 🦄 [Music PlayList Channel](https://www.youtube.com/channel/UCgKr-dm9wEfSPisEQzUXYNw)
 
+### ❤️‍Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/ggogono3/)
+
 ### 📮 Contacts
 - 📫 Email: junhyuckjang3@gmail.com
-
 
 
