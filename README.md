@@ -30,7 +30,7 @@
   
 | Name      | Description   |  Developer(s)   |
 |:----------|:--------------|:----------------|
-| ✅ **Furu GG**(2022)| Statistic site of Furo-Yoni(card game)  [[HomePage]](https://furugg.pythonanywhere.com/) [[Github]](https://github.com/ClearSky-S/FuruYoniStatistics) /Django(python)| Me, RoughMelody |
+| ✅ **Furu GG**(2022)| Statistic site of Furo-Yoni(card game)  [[HomePage]](https://furugg.pythonanywhere.com/) [[Github]](https://github.com/ClearSky-S/FuruYoniStatistics) /Django(python)| Me, [[RoughMelody]](https://www.youtube.com/channel/UCL5Y4SYvRWg_KEQcuGI7QgA) |
 | ✅ **Blue Archive TPS**(2022)|Fan game of Blue Archive in third person shooter [[Download]](https://clearsky-s.github.io/BlueArchiveTPSHompage/)/Unity| Me |
 | ✅ **Pomodoro Timer**(2022)|Study timer site [[HomePage]](https://pomodoro.pythonanywhere.com/) [[Github]](https://github.com/Devrent-Pomodoro/Pomodoro-Django) /Django(python)| [Devrent](https://devrent.notion.site/devrent/devRent-f017ed17fb92400497ed074c80a044fa) |
 | ✅ **Abydos homepage**(2021)|Homepage of Abydos highschool which is school in mobile game Blue Archive [[Homepage]](https://clearsky-s.github.io/abydos-highschool-homepage/)  [[Github]](https://github.com/ClearSky-S/abydos-highschool-homepage)/React| Me |
