@@ -29,7 +29,7 @@
 ```
   
 | Name      | Description   |  Developer(s)   |
-|:--- -------|:--------------|:----------------|
+|:----------|:--------------|:----------------|
 | 🏗️ **Genshin Info**(2022)| Genshin impact (RPG Game) information site [[Github]](https://github.com/ClearSky-S/genshin-page) / React, FireBase | Me |
 | ✅ **Furu GG**(2022)| Statistic site of Furo-Yoni(card game)  [[HomePage]](https://furugg.pythonanywhere.com/) [[Github]](https://github.com/ClearSky-S/FuruYoniStatistics) /Django(python)| Me, [RoughMelody](https://www.youtube.com/channel/UCL5Y4SYvRWg_KEQcuGI7QgA) |
 | ✅ **Blue Archive TPS**(2022)|Fan game of Blue Archive in third person shooter [[Download]](https://clearsky-s.github.io/BlueArchiveTPSHompage/)/Unity| Me |
