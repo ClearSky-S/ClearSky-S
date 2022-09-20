@@ -43,7 +43,7 @@
 - 🦄 [Music PlayList Channel](https://www.youtube.com/channel/UCgKr-dm9wEfSPisEQzUXYNw)
 
 ### ❤️‍Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggogono3)](https://solved.ac/ggogono3/)]
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggogono3)](https://solved.ac/ggogono3/)
 
 ### 📮 Contacts
 - 📫 Email: junhyuckjang3@gmail.com
