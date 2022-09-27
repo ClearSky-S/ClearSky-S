@@ -33,8 +33,8 @@
 | 🏗️ **Genshin Info**(2022)| Genshin impact (RPG Game) information site [[Github]](https://github.com/ClearSky-S/genshin-page) / React, FireBase | Me |
 | ✅ **Furu GG**(2022)| Statistic site of Furo-Yoni(card game)  [[HomePage]](https://furugg.pythonanywhere.com/) [[Github]](https://github.com/ClearSky-S/FuruYoniStatistics) /Django(python)| Me, [RoughMelody](https://www.youtube.com/channel/UCL5Y4SYvRWg_KEQcuGI7QgA) |
 | ✅ **Blue Archive TPS**(2022)|Fan game of Blue Archive in third person shooter [[Download]](https://clearsky-s.github.io/BlueArchiveTPSHompage/)/Unity| Me |
-| ✅ **Pomodoro Timer**(2022)|Study timer site [[HomePage]](https://pomodoro.pythonanywhere.com/) [[Github]](https://github.com/Devrent-Pomodoro/Pomodoro-Django) /Django(python)| [Devrent](https://devrent.notion.site/devrent/devRent-f017ed17fb92400497ed074c80a044fa) |
-| ✅ **Abydos homepage**(2021)|Homepage of Abydos highschool which is school in mobile game Blue Archive [[Homepage]](https://clearsky-s.github.io/abydos-highschool-homepage/)  [[Github]](https://github.com/ClearSky-S/abydos-highschool-homepage)/React| Me |
+| ✅ Pomodoro Timer(2022)|Study timer site [[HomePage]](https://pomodoro.pythonanywhere.com/) [[Github]](https://github.com/Devrent-Pomodoro/Pomodoro-Django) /Django(python)| [Devrent](https://devrent.notion.site/devrent/devRent-f017ed17fb92400497ed074c80a044fa) |
+| ✅ Abydos homepage(2021)|Homepage of Abydos highschool which is school in mobile game Blue Archive [[Homepage]](https://clearsky-s.github.io/abydos-highschool-homepage/)  [[Github]](https://github.com/ClearSky-S/abydos-highschool-homepage)/React| Me |
 | ✅ **Hunt With Kindered**(2020)|Fan game of LOL [[Google Play Store]](https://play.google.com/store/apps/details?id=com.ClearSky.HuntwithClearSky)/Unity| Me |
 | ✅ **2D Game Character Animation**(2019-)|2D Character Game Character Animation [[Unity Asset Store]](https://assetstore.unity.com/publishers/45049/)/Unity| Me |
 
