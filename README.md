@@ -5,9 +5,9 @@
 
 
 #### 🏗️ What I Do
-- 🔥 Web Backend Development
-- 🔥 Game Development using Unity
-- 🦄  2D Art & Design
+- 🔥 Web Programming
+- 🔥 Game Programming (Unity)
+- 🦄 Game 2D Art
 
 ### ❤️‍🔥  Language
 ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
