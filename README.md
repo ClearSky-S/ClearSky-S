@@ -41,8 +41,6 @@
 ### 🔭 Youtube
 - 🦄 [ClearSky - Game Dev](https://www.youtube.com/channel/UCooqunOsKx8LD5xyl7M_2-A)
 
-### ❤️‍Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggogono3)](https://solved.ac/ggogono3/)
 
 ### 📮 Contacts
 - 📫 Email: junhyuckjang3@gmail.com
