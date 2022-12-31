@@ -27,8 +27,8 @@
 | Name      | Description   |  Deploy |  Code   |  Stack   |
 |:----------|:--------------|:----------------|:----------------|:----------------|
 |FuruGG| Statistic site of card game Furu-Yoni | [HomePage](https://furugg.pythonanywhere.com/)|[Github](https://github.com/ClearSky-S/FuruYoniStatistics)| Django, Bootstrap|
-|Blue Archive TPS|Fan game of Blue Archive in third person shooter|[Download](https://clearsky-s.github.io/BlueArchiveTPSHompage/)||Unity|
-|Hunt With Kindered|Fan game of LOL|[Google Play Store](https://play.google.com/store/apps/details?id=com.ClearSky.HuntwithClearSky)||Unity|
+|Blue Archive TPS|Fan game of Blue Archive in third person shooter|[Download](https://clearsky-s.github.io/BlueArchiveTPSHompage/)||Unity, UTPS|
+|Hunt With Kindered|Fan game of LOL|[Google Play Store](https://play.google.com/store/apps/details?id=com.ClearSky.HuntwithClearSky)||Unity, Corgi|
 |2D Game Character Animation|(ART) 2D Game Character Animation |[Unity Asset Store](https://assetstore.unity.com/publishers/45049/)| |Unity|
 
 ### 🏫 School Projects
