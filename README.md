@@ -27,7 +27,7 @@
 | Name      | Description   |  Deploy |  Code   |  Stack   |
 |:----------|:--------------|:----------------|:----------------|:----------------|
 |FuruGG| Statistic site of card game Furu-Yoni | [HomePage](https://furugg.pythonanywhere.com/)|[Github](https://github.com/ClearSky-S/FuruYoniStatistics)| Django, Bootstrap|
-|벚꽃결투| BakaFireParty의 보드게임 「벚꽃 내리는 시대에 결투를」을 격투게임으로 2차 창작한 게임 | [HomePage]([https://furugg.pythonanywhere.com/](https://clearsky-s.github.io/SakuraBattle/))|| Unity, UFE2|
+|벚꽃결투| BakaFireParty의 보드게임 「벚꽃 내리는 시대에 결투를」을 격투게임으로 2차 창작한 게임 | [HomePage](https://clearsky-s.github.io/SakuraBattle/)|| Unity, UFE2|
 |Blue Archive TPS|Fan game of Blue Archive in third person shooter|[Download](https://clearsky-s.github.io/BlueArchiveTPSHompage/)||Unity, UTPS|
 |Hunt With Kindered|Fan game of LOL|[Google Play Store](https://play.google.com/store/apps/details?id=com.ClearSky.HuntwithClearSky)||Unity, Corgi|
 |2D Game Character Animation|(ART) 2D Game Character Animation |[Unity Asset Store](https://assetstore.unity.com/publishers/45049/)| |Unity|
