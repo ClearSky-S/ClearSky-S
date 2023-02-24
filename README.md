@@ -32,7 +32,7 @@
 |벚꽃격투| BakaFireParty의 보드게임 「벚꽃 내리는 시대에 결투를」을 격투게임으로 2차 창작한 게임 | [Steam](https://store.steampowered.com/app/2285950/_/?beta=0)|| Unity, UFE2|
 |Blue Archive TPS|Fan game of Blue Archive in third person shooter|[Download](https://clearsky-s.github.io/BlueArchiveTPSHompage/)||Unity, UTPS|
 |Hunt With Kindered|Fan game of LOL|[Google Play Store](https://play.google.com/store/apps/details?id=com.ClearSky.HuntwithClearSky)||Unity, Corgi|
-|2D Game Character Animation|(ART) 2D Game Character Animation |[Unity Asset Store](https://assetstore.unity.com/publishers/45049/)| |Unity|
+|2D Game Character Animation| 2D Game Character Animation |[Unity Asset Store](https://assetstore.unity.com/publishers/45049/)| |Unity|
 
 ### 🏫 School Projects
 
