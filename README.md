@@ -2,9 +2,9 @@
 #### 🍰 Who I Am
 - 🏫 (졸업) Seoul Science Highschool 29th
 - 🏫 (재학) Hanyang University 21학번 (Computer Science)
-- 🏗 한양대학교 게임개발동아리 OOPARTS 2022년도 부회장
-- 🏗 웹 개발 연합 동아리 Devrent 2기 교육부 임원
-- 🏗 인디게임개발사 NekoKing 소속 태크니컬 아티스트
+- 🏗 (현) 한양대학교 게임개발동아리 OOPARTS 2022, 2023년도 부회장
+- 🏗 (전) 웹 개발 연합 동아리 Devrent 2기 교육부 임원
+- 🏗 (현) 인디게임개발사 NekoKing 소속 태크니컬 아티스트
 
 #### 🏗️ What I Do
 - 🔥 Web Programming
