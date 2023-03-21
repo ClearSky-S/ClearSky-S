@@ -34,6 +34,12 @@
 |Hunt With Kindered|Fan game of LOL|[Google Play Store](https://play.google.com/store/apps/details?id=com.ClearSky.HuntwithClearSky)||Unity, Corgi| |
 |2D Game Character Animation| 2D Game Character Animation |[Unity Asset Store](https://assetstore.unity.com/publishers/45049/)| |Unity| |
 
+### 🔭 Lectures
+| Name      | Description   | Video |
+|:----------|:--------------|:----------------|
+|당구 물리엔진 구현|물리학과 수학을 곁들인 게임프로그래밍 강의| [Youtube](https://www.youtube.com/watch?v=4Loq-MHZ4wI&list=PL-2C6Kzzo6I8xR0tausR-M-rg6UzxasmK) |
+|유니티 2D 애니메이션 | 유니티 2D 애니메이션 패키지 강의| [Youtube](https://www.youtube.com/watch?v=URSACpsn3Dw&list=PL-2C6Kzzo6I8VqjRVYodNCPGqSGCb4cyl) |
+
 ### 🏫 School Projects
 
 | Name      | Description   |  Demo  | Wiki   |  Code   |  Stack   |
