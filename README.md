@@ -3,7 +3,6 @@
 - 🏫 (졸업) Seoul Science Highschool 29th
 - 🏫 (재학) Hanyang University 21학번 (Computer Science)
 - 🏗 (현) 한양대학교 게임개발동아리 OOPARTS 2022, 2023년도 부회장
-- 🏗 (현) 인디게임개발팀 NekoKing 팀원
 - 🏗 (전) 웹 개발 연합 동아리 Devrent 2기 교육부 임원
 
 #### 🏗️ What I Do
@@ -34,21 +33,7 @@
 |Hunt With Kindered|Fan game of LOL|[Google Play Store](https://play.google.com/store/apps/details?id=com.ClearSky.HuntwithClearSky)||Unity, Corgi| |
 |2D Game Character Animation| 2D Game Character Animation |[Unity Asset Store](https://assetstore.unity.com/publishers/45049/)| |Unity| |
 
-### 🔭 Lectures
-| Name      | Description   | Video |
-|:----------|:--------------|:----------------|
-|당구 물리엔진 구현|물리학과 수학을 곁들인 게임프로그래밍 강의| [Youtube](https://www.youtube.com/watch?v=4Loq-MHZ4wI&list=PL-2C6Kzzo6I8xR0tausR-M-rg6UzxasmK) |
-|유니티 2D 애니메이션 | 유니티 2D 애니메이션 패키지 강의| [Youtube](https://www.youtube.com/watch?v=URSACpsn3Dw&list=PL-2C6Kzzo6I8VqjRVYodNCPGqSGCb4cyl) |
 
-### 🏫 School Projects
-
-| Name      | Description   |  Demo  | Wiki   |  Code   |  Stack   |
-|:----------|:--------------|:----------------|:----------------|:----------------|:----------------|
-| Line Tracer | 마이크로프로세서 수업 과제 |[Video](https://www.youtube.com/watch?v=tG2H22r_DA0&list=PLeoOt965xRBgCPeq2Llw-d_8kR3BetaqK&index=1&ab_channel=ClearSky-GameDev)| [Wiki](https://github.com/ClearSky-S/line_tracer/blob/main/Linetracer%20wiki.pdf)|[Code](https://github.com/ClearSky-S/line_tracer)|C|
-|모의 수강신청 사이트| 데이터베이스 수업 웹 개발 과제|[Video](https://www.youtube.com/watch?v=gDX0q8jRSWA&list=PLeoOt965xRBgCPeq2Llw-d_8kR3BetaqK&index=2&ab_channel=ClearSky-GameDev)|[Wiki](https://github.com/ClearSky-S/sugang/raw/main/wiki/wiki.pdf)|[Code](https://github.com/ClearSky-S/sugang)|Django, Bootstrap|
-|DB Join| 각 상황에 맞는 JOIN 알고리즘을 구현하는 DB 수업 과제|[Video](https://www.youtube.com/watch?v=dKBwS16qb4A&ab_channel=ClearSky-GameDev)|[Wiki](https://github.com/ClearSky-S/DBJoin/tree/main/Wiki)|[Code](https://github.com/ClearSky-S/DBJoin)|C|
-|ChatApp1|컴퓨터 네트워크 과제. UDP 통신, Peer to Peer| |[Wiki](https://github.com/ClearSky-S/ChatApp_UDP_P2P_/tree/main/Wiki)|[Code](https://github.com/ClearSky-S/ChatApp_UDP_P2P_)|JAVA|
-|ChatApp2|컴퓨터 네트워크 과제. TCP 통신, Client-Server| |[Wiki](https://github.com/ClearSky-S/ChatApp_TCP_ClientServer/tree/main/Wiki)|[Code](https://github.com/ClearSky-S/ChatApp_TCP_ClientServer)|JAVA|
 
 ### 🔭 Youtube
 - 🦄 [ClearSky - Game Dev](https://www.youtube.com/channel/UCooqunOsKx8LD5xyl7M_2-A)
