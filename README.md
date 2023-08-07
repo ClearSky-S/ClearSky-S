@@ -1,8 +1,8 @@
 ### 🙃 Hello
 #### 🍰 Who I Am
 - 🏫 (졸업) Seoul Science Highschool 29th
-- 🏫 (재학) Hanyang University 21학번 (Computer Science)
-- 🏗 (현) 한양대학교 게임개발동아리 OOPARTS 2022, 2023년도 부회장
+- 🏫 (휴학) Hanyang University 21학번 (Computer Science)
+- 🏗 (전) 한양대학교 게임개발동아리 OOPARTS 2022, 2023년도 부회장
 - 🏗 (전) 웹 개발 연합 동아리 Devrent 2기 교육부 임원
 
 #### 🏗️ What I Do
