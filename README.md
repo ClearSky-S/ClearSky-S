@@ -28,9 +28,8 @@
 | Name      | Description   |  Deploy |  Code   |  Stack   | outcome |
 |:----------|:--------------|:----------------|:----------------|:----------------|:----------------|
 |FuruGG| Statistic site of card game Furu-Yoni | [HomePage](https://furugg.pythonanywhere.com/)|[Github](https://github.com/ClearSky-S/FuruYoniStatistics)| Django, Bootstrap| 월당 약 2만 트래픽 발생 |
-|벚꽃격투| BakaFireParty의 보드게임 「벚꽃 내리는 시대에 결투를」을 격투게임으로 2차 창작한 게임 | [Steam](https://store.steampowered.com/app/2285950/_/?beta=0)|| Unity, UFE2| 출시 1주 후 기준 약 5000 다운로드 |
+|Sentinels| 2D 팀 대전 슈팅 게임 | [HomePage]([https://furugg.pythonanywhere.com/](https://store.steampowered.com/app/2399040/Sentinels/))|Private| Unity, Photon Fusion, Steamworks API| CBT 진행 중 |
 |Blue Archive TPS|Fan game of Blue Archive in third person shooter|[Download](https://clearsky-s.github.io/BlueArchiveTPSHompage/)||Unity, UTPS| 1.0 데모영상 유튜브 조회수 약 1.5만회 |
-|Hunt With Kindered|Fan game of LOL|[Google Play Store](https://play.google.com/store/apps/details?id=com.ClearSky.HuntwithClearSky)||Unity, Corgi| |
 |2D Game Character Animation| 2D Game Character Animation |[Unity Asset Store](https://assetstore.unity.com/publishers/45049/)| |Unity| |
 
 
