@@ -28,7 +28,7 @@
 | Name      | Description   |  Deploy |  Code   |  Stack   | outcome |
 |:----------|:--------------|:----------------|:----------------|:----------------|:----------------|
 |FuruGG| Statistic site of card game Furu-Yoni | [HomePage](https://furugg.pythonanywhere.com/)|[Github](https://github.com/ClearSky-S/FuruYoniStatistics)| Django, Bootstrap| 월당 약 2만 트래픽 발생 |
-|Sentinels| 2D 팀 대전 슈팅 게임 | [HomePage](https://furugg.pythonanywhere.com/](https://store.steampowered.com/app/2399040/Sentinels/))|Private| Unity, Photon Fusion, Steamworks API| CBT 진행 중 |
+|Sentinels| 2D 팀 대전 슈팅 게임 | [HomePage](https://store.steampowered.com/app/2399040/Sentinels/)|Private| Unity, Photon Fusion, Steamworks API| CBT 진행 중 |
 |Blue Archive TPS|Fan game of Blue Archive in third person shooter|[Download](https://clearsky-s.github.io/BlueArchiveTPSHompage/)||Unity, UTPS| 1.0 데모영상 유튜브 조회수 약 1.5만회 |
 |2D Game Character Animation| 2D Game Character Animation |[Unity Asset Store](https://assetstore.unity.com/publishers/45049/)| |Unity| |
 
