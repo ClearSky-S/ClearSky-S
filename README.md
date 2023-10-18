@@ -11,7 +11,6 @@
 - 🦄 Game 2D Art
 
 ### ❤️‍🔥  Main Famework
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 <!-- <img src="https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white"> -->
 
